@@ -1,5 +1,5 @@
 body {
-    background-image: url(wallpaperflare.com_wallpaper\ \(1\).jpg);
+    background-image: url(background.jpg);
     background-size: cover;
 }
 
@@ -31,7 +31,7 @@ body {
     width: 40rem;
     margin-top: 7rem;
     margin-left: 7rem;
-    background-image: url(anime\ backgrounds\ wallpapers\ pc\ dark.jpeg);
+    background-image: url(elemen.jpeg);
     background-size: cover;
     background-position: -121px;
     animation: bordercolor 7s linear infinite;
@@ -128,3 +128,4 @@ button:hover {
     transition: 3s;
 
 }
+
